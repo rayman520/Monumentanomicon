@@ -1,0 +1,15 @@
+main: mmno.main.Main
+name: MonumentaNomicon
+version: 1.0
+author: rayman520
+description: <need better desc>
+commands:
+  monumentanomicon:
+    description: Used to access the MonumentaNomicon
+    usage: "usage: /Monumentanomicon <Target>"
+    permission: MonumentaNomicon.monumentanomicon
+    permission-message: You don't have the permission to use this command.
+  mmnogetitemstring:
+    description: Returns the MonumentaNomicon Sting value of an item
+    usage: "usage: /mmnogetitemstring"
+    permission-message: You don't have the permission to use this command.
